@@ -1,0 +1,4 @@
+settings:
+  holograms: true
+  particles: true
+  ticks-per-generate: 40
