@@ -1,0 +1,8 @@
+name: DonutSpawners
+main: com.spacaso.donutspawners.DonutSpawners
+version: 1.0
+api-version: 1.19
+commands:
+  donutspawners:
+    usage: /donutspawners
+    description: Donut Spawners command
